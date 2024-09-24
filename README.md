@@ -1,7 +1,7 @@
 # Seedhe_Maut_Website
-The Seedhe Maut Fan Website is a personal project that I designed and developed from the ground up using **HTML and CSS**. This website is dedicated to one of my favorite rap duo, Seedhe Maut, and serves as a fan page to showcase their music, style, and essence.
+The Seedhe Maut Fan Website is a personal project that I designed and developed from scratch using **HTML and CSS**. This website is dedicated to one of my favorite rap duo, Seedhe Maut, and serves as a fan page to showcase their music, style, and essence.
 
-I used a variety of modern web development techniques to create a visually engaging and responsive website. The site layout leverages CSS Flexbox and Grid to ensure proper alignment, spacing, and structure across different devices. I incorporated CSS transitions and effects to enhance the user experience with smooth animations and hover effects.
+I used a variety of modern web development techniques to create a visually engaging website. The site layout leverages CSS Flexbox and Grid to ensure proper alignment, spacing, and structure across different devices. I incorporated CSS transitions and effects to enhance the user experience with smooth animations and hover effects.
 
 For multimedia content, I embedded videos using iframes, allowing users to watch Seedhe Maut’s music videos directly on the website without navigating away from the page. The design includes a fixed navigation bar for easy access to different sections, a header with a custom background, and a clean, modern UI that matches the aesthetic of the rap duo.
 
