@@ -5,6 +5,11 @@ Welcome to the **Seedhe Maut Fan Website** – a personal project dedicated to c
 ## 🚀 Project Overview
 This website was designed and developed from scratch using **HTML** and **CSS**. The goal is to create a visually engaging experience that reflects the dynamic energy of Seedhe Maut’s music. It features a sleek layout, smooth animations, and easy navigation, all while paying homage to their unique style.
 
+
+## 🌐 Live Demo
+Check out the [live demo](https://dishadewangan.github.io/Seedhe_Maut_Website/) to try it out in real-time!
+
+
 ## 🛠️ Technologies Used
 - **HTML & CSS**: For structure, layout, and styling.
 - **CSS Flexbox & Grid**: Ensuring proper alignment and responsive design across devices.
