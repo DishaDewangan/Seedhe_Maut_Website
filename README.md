@@ -1,6 +1,6 @@
 # Seedhe Maut Fan Website 🎤🎶
 
-Welcome to the **Seedhe Maut Fan Website** – a personal project dedicated to celebrating one of my favorite rap duos, **Seedhe Maut**! This site serves as a fan page to showcase their music, style, and overall essence.
+Welcome to the **Seedhe Maut Fan Website 🎤🎶** – a personal project dedicated to celebrating one of my favorite rap duos, **Seedhe Maut**! This site serves as a fan page to showcase their music, style, and overall essence.
 
 ## 🚀 Project Overview
 This website was designed and developed from scratch using **HTML** and **CSS**. The goal is to create a visually engaging experience that reflects the dynamic energy of Seedhe Maut’s music. It features a sleek layout, smooth animations, and easy navigation, all while paying homage to their unique style.
