@@ -1,4 +1,4 @@
-# Seedhe Maut Fan Website 🎤🎶
+# Seedhe Maut Website 🎤🎶
 
 Welcome to the **Seedhe Maut Fan Website** – a personal project dedicated to celebrating one of my favorite rap duos, **Seedhe Maut**! This site serves as a fan page to showcase their music, style, and overall essence.
 
